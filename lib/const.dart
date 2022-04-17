@@ -106,7 +106,7 @@ List<SearchListItem> kAllSearh = [
   SearchListItem(
       title: 'Sleep',
       img:
-          'https://img2.goodfon.com/original/1920x1280/1/85/noch-zvezdy-mlechnyy-put-les.jpg',
+          'https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       color: const Color.fromARGB(255, 0, 20, 153)),
   SearchListItem(
       title: 'Soulfull',
@@ -127,7 +127,7 @@ List<SearchListItem> kAllSearh = [
   SearchListItem(
       title: 'Sleep',
       img:
-          'https://img2.goodfon.com/original/1920x1280/1/85/noch-zvezdy-mlechnyy-put-les.jpg',
+          'https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       color: const Color.fromARGB(255, 0, 20, 153)),
   SearchListItem(
       title: 'Soulfull',
@@ -137,7 +137,7 @@ List<SearchListItem> kAllSearh = [
   SearchListItem(
       title: 'Sleep',
       img:
-          'https://img2.goodfon.com/original/1920x1280/1/85/noch-zvezdy-mlechnyy-put-les.jpg',
+          'https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       color: const Color.fromARGB(255, 0, 20, 153)),
   SearchListItem(
       title: 'Soulfull',
@@ -152,7 +152,7 @@ List<SearchListItem> kAllSearh = [
   SearchListItem(
       title: 'Sleep',
       img:
-          'https://img2.goodfon.com/original/1920x1280/1/85/noch-zvezdy-mlechnyy-put-les.jpg',
+          'https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       color: const Color.fromARGB(255, 0, 20, 153)),
   SearchListItem(
       title: 'Trending',
@@ -162,7 +162,7 @@ List<SearchListItem> kAllSearh = [
   SearchListItem(
       title: 'Sleep',
       img:
-          'https://img2.goodfon.com/original/1920x1280/1/85/noch-zvezdy-mlechnyy-put-les.jpg',
+          'https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       color: const Color.fromARGB(255, 0, 20, 153)),
 ];
 
