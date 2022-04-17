@@ -6,7 +6,7 @@ The objective of this project is to look at how we can customise Flutter Widgets
 
 ## What you will create
 
-<img src="home.png"> <img src="search.png"> <img src="library.png"> <img src="player.png"> 
+<img src="home.jpg"> <img src="search.jpg"> <img src="library.jpg"> <img src="player.jpg"> 
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
