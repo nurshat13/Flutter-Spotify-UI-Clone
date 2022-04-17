@@ -72,7 +72,7 @@ class SearchPage extends StatelessWidget {
                 children: [
                   SectionBuilder(
                       sectionTitle: 'Playlist Added',
-                      titlePadding: EdgeInsets.zero,
+                      titlePadding: const EdgeInsets.only(bottom: 10),
                       padding: const EdgeInsets.only(bottom: 16),
                       sectionBodyBuilder: (context) {
                         return SearchSectionItemBuilder(
@@ -82,7 +82,7 @@ class SearchPage extends StatelessWidget {
                   SectionBuilder(
                       sectionTitle: 'Browse All',
                       padding: EdgeInsets.zero,
-                      titlePadding: EdgeInsets.zero,
+                      titlePadding: const EdgeInsets.only(bottom: 10),
                       sectionBodyBuilder: (context) {
                         return SearchSectionItemBuilder(
                           list: kAllSearh,
